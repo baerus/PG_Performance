@@ -2,10 +2,10 @@
 <widget id="de.mfischer.performance" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>PG_Performance</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Performance Prototype.
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
-        N. Fischer
+        M. Fischer
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
     <preference name="phonegap-version" value="3.1.0" />
