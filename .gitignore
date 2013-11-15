@@ -27,3 +27,9 @@ proguard/
 *.ipr
 *.iws
 .idea/
+
+merges/
+platforms/
+plugins/
+.cordova/
+www/
